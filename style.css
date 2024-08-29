@@ -1,3 +1,13 @@
 body{
     background-color: blue;
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    background-color: red;
+    width: 99vw;
+    height:99vh; 
+    margin: auto;
+    padding: auto;
 }
