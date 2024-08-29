@@ -2,12 +2,21 @@ body{
     background-color: blue;
     margin: 0%;
     padding: 0%;
+    align-content: center;
 }
 
 .main{
     background-color: red;
     width: 99vw;
-    height:99vh; 
+    height:95vh; 
     margin: auto;
-    padding: auto;
+    align-content: center;
+}
+
+.box{
+    width: 60vw;
+    height: 60vh;
+    background-color: green;
+    margin: auto;
+    align-content: center;
 }
